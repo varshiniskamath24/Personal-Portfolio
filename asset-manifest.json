@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/varshini-portfolio/static/css/main.7e9d77d9.css",
+    "main.js": "/varshini-portfolio/static/js/main.4d432df8.js",
+    "index.html": "/varshini-portfolio/index.html",
+    "main.7e9d77d9.css.map": "/varshini-portfolio/static/css/main.7e9d77d9.css.map",
+    "main.4d432df8.js.map": "/varshini-portfolio/static/js/main.4d432df8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e9d77d9.css",
+    "static/js/main.4d432df8.js"
+  ]
+}
